@@ -290,7 +290,7 @@
         "contents_text": "想認識何種傳輸媒介？",
         "footer": [
             "銅線",
-            " 光纖"
+            "光纖"
         ],
         "template": "flex_button_msg"
     },
