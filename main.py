@@ -1,6 +1,6 @@
 from flask import Flask, request
 from linebot.v3 import WebhookHandler
-from linebot.v3.messaging import Configuration, ImageMessage, ImagemapMessage, ImagemapBaseSize, MessageImagemapAction, ImagemapArea, VideoMessage, FlexMessage, FlexBubble, FlexBox, FlexText,FlexImage, URIAction
+from linebot.v3.messaging import Configuration, ImageMessage, ImagemapMessage, ImagemapBaseSize, MessageImagemapAction, ImagemapArea, VideoMessage, FlexMessage, FlexBubble, FlexBox, FlexText,FlexImage, URIAction,FlexCarousel,MessageAction,FlexButton
 from linebot.v3.webhooks import MessageEvent, TextMessageContent
 
 from Utils.Config import Config
