@@ -107,6 +107,44 @@ def handleTextMessage(event):
                 )
             )
         )
+    #圖片
+    elif key_word['template'] == "img":
+        img_url = "https://aenn1107.github.io/line-weather-bot/img/"+quote(key_word['img_url'])
+        flexM = ImageMessage(
+            originalContentUrl=img_url,
+            previewImageUrl=img_url
+        )
+    #圖片輪播
+    elif key_word['template'] == "img_slick":
+        # 建立圖片輪播模板
+        columns = []
+        for img_name in key_word['img_list']:
+            img_url = "https://aenn1107.github.io/line-weather-bot/img/"+img_name+".png"
+            column = FlexBubble(
+                type="bubble",
+                hero=FlexImage(
+                    url=img_url,
+                    size="full",
+                    aspectRatio="1.5:1",
+                    ),
+                footer=FlexBox(
+                type="box",
+                layout="horizontal",
+                contents=[
+                    FlexButton(
+                        type="button",
+                        action=MessageAction(
+                            type="message",
+                            label=img_name,
+                            text=img_name
+                        )
+                    )
+                ]
+                )
+            )
+            columns.append(column)
+        carousel = FlexCarousel(type="carousel", contents=columns)
+        flexM = FlexMessage(type="flex", altText=originalM, contents=carousel)
     replyM(configuration, rToken, flexM)
 
 
