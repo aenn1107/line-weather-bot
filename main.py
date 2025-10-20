@@ -6,6 +6,7 @@ from linebot.v3.webhooks import MessageEvent, TextMessageContent
 from Utils.Config import Config
 from Utils.LineAPI import replyM
 from Utils.Flex_Template import generateFlexB
+from urllib.parse import quote
 
 import json
 import glob
