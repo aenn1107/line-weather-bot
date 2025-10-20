@@ -17,44 +17,271 @@
         ],
         "template": "flex_button_msg"
     },
-    "D-Link": {
-        "altText": "請選擇機種",
-        "contents_text": "想認識何種機種？",
-        "footer": [
-            "6641K",
-            "6740C",
-            "7740C(B)"
-        ],
-        "template": "flex_button_msg"
-    },
-    "光纖": {
-        "altText": "請選擇品牌",
-        "contents_text": "想認識何種品牌機種？",
-        "footer": [
-            "Ralink",
-            "Tenda"
-        ],
-        "template": "flex_button_msg"
-    },
-    "合勤ZyXel": {
-        "altText": "請選擇機種",
-        "contents_text": "想認識何種機種？",
-        "footer": [
-            "P880",
-            "P874",
-            "P883(B)",
-            "6101(ADSL)",
-            "SMC7904W",
-            "T50C"
-        ],
-        "template": "flex_button_msg"
-    },
     "安全規範": {
         "altText": "請選擇安全事項",
         "contents_text": "想知道何種安全事項？",
         "footer": [
             "行車安全",
-            "工作安全"
+            " 工作安全"
+        ],
+        "template": "flex_button_msg"
+    },
+    "ATUR": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "AR4031B",
+            "AR4031C",
+            "AR5211",
+            "CT-511C",
+            "P-6101C",
+            "SMC7904W",
+            "T07AW"
+        ],
+        "template": "flex_button_msg"
+    },
+    "D-Link": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "6641K",
+            "6740C(2T2R)",
+            "6740C",
+            "7740c",
+            "DSL6541K"
+        ],
+        "template": "flex_button_msg"
+    },
+    "EPON": {
+        "altText": "請選擇方案",
+        "contents_text": "想認識何種方案？",
+        "footer": [
+            "住友Sumitomo"
+        ],
+        "template": "flex_button_msg"
+    },
+    "GPON": {
+        "altText": "請選擇方案",
+        "contents_text": "想認識何種方案？",
+        "footer": [
+            "亞旭Askey",
+            "合勤ZyXel(GPON)",
+            "大山Dasan",
+            "諾基亞Nokia",
+            "阿爾卡特Alcatel lucent"
+        ],
+        "template": "flex_button_msg"
+    },
+    "ITA": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "ITA-111",
+            "ITA-222",
+            "ITA-411",
+            "ITA-811",
+            "ITA-TP69R-4L",
+            "ITA-TP69R-4L4P",
+            "ITA-TP69R-8L",
+            "ITA-TP69R-8L8P",
+            "ITA221(B)",
+            "ITA221",
+            "ITA412-4L4P",
+            "ITASP8440SP-4L4P",
+            "ITASP8440SP-8L8P",
+            "ITA_TP7161"
+        ],
+        "template": "flex_button_msg"
+    },
+    "PLC": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "GCA-6000",
+            "PG-9141",
+            "PG-9173",
+            "PLA-405C",
+            "PLA-406C",
+            "PLC-9120"
+        ],
+        "template": "flex_button_msg"
+    },
+    "STB": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "206A",
+            "206B",
+            "304",
+            "304A",
+            "307",
+            "307A",
+            "307B",
+            "307C",
+            "307D1",
+            "308",
+            "309",
+            "310",
+            "311A",
+            "311B",
+            "501A",
+            "502A",
+            "502B",
+            "503",
+            "503A",
+            "503B",
+            "504A",
+            "504B",
+            "505A",
+            "505B",
+            "MOD205",
+            "MOD303",
+            "MOD303A"
+        ],
+        "template": "flex_button_msg"
+    },
+    "VTUR": {
+        "altText": "請選擇方案",
+        "contents_text": "想認識何種方案？",
+        "footer": [
+            "D-Link",
+            "合勤ZyXel(VTUR)"
+        ],
+        "template": "flex_button_msg"
+    },
+    "亞旭Askey": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "RTF8207W-E",
+            "RTF8207W",
+            "RTF8217-E",
+            "RTF8217"
+        ],
+        "template": "flex_button_msg"
+    },
+    "低速": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "T-288C",
+            "T-336Cx"
+        ],
+        "template": "flex_button_msg"
+    },
+    "住友Sumitomo": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "6086"
+        ],
+        "template": "flex_button_msg"
+    },
+    "光纖": {
+        "altText": "請選擇方案",
+        "contents_text": "想認識何種方案？",
+        "footer": [
+            "EPON",
+            "GPON"
+        ],
+        "template": "flex_button_msg"
+    },
+    "公眾熱點AP": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "BW-1254",
+            "DAP-2460",
+            "DAP-2462",
+            "DTP-2012",
+            "NWA1100N",
+            "WAP-5860"
+        ],
+        "template": "flex_button_msg"
+    },
+    "分享器": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "公眾熱點AP",
+            "244DG",
+            "3300-T0",
+            "3400",
+            "350RT",
+            "3625-T50C",
+            "410223-TC",
+            "410443-TC",
+            "620443-TC",
+            "630223-TC",
+            "ASUS-AX1800",
+            "ASUS-F0-ET12",
+            "ASUS-XD6",
+            "DIR612",
+            "NBG4104",
+            "T50B",
+            "WBR2200",
+            "ZYXEL-6615"
+        ],
+        "template": "flex_button_msg"
+    },
+    "合勤ZyXel(GPON)": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "500NP",
+            "512NP",
+            "812NV",
+            "PG004",
+            "PMG4506-T20B"
+        ],
+        "template": "flex_button_msg"
+    },
+    "合勤ZyXel(VTUR)": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "3625-T50C(數據機)",
+            "880NW",
+            "P-870H-51",
+            "P-870HA",
+            "p-870HW-51",
+            "P873",
+            "P874",
+            "P876",
+            "P880 2T2R",
+            "P880",
+            "P883"
+        ],
+        "template": "flex_button_msg"
+    },
+    "大山Dasan": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "H640G",
+            "H660-C",
+            "H660W",
+            "H660WM-C",
+            "H660WM"
+        ],
+        "template": "flex_button_msg"
+    },
+    "專業設備": {
+        "altText": "請選擇方案",
+        "contents_text": "想認識何種方案？",
+        "footer": [
+            "ITA",
+            "低速",
+            "放心播"
+        ],
+        "template": "flex_button_msg"
+    },
+    "放心播": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "KBAB1101",
+            "KBAB1801"
         ],
         "template": "flex_button_msg"
     },
@@ -63,16 +290,37 @@
         "contents_text": "想認識何種傳輸媒介？",
         "footer": [
             "銅線",
-            "光纖"
+            " 光纖"
+        ],
+        "template": "flex_button_msg"
+    },
+    "諾基亞Nokia": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "G-040G-Q",
+            "G-040W-Q",
+            "G-0425G-P",
+            "G-0425G-Q"
         ],
         "template": "flex_button_msg"
     },
     "銅線": {
-        "altText": "請選擇品牌",
-        "contents_text": "想認識何種品牌機種？",
+        "altText": "請選擇方案",
+        "contents_text": "想認識何種方案？",
         "footer": [
-            "合勤ZyXel",
-            "D-Link"
+            "ATUR",
+            "VTUR"
+        ],
+        "template": "flex_button_msg"
+    },
+    "阿爾卡特Alcatel lucent": {
+        "altText": "請選擇機種",
+        "contents_text": "想認識何種機種？",
+        "footer": [
+            "I-040G-A",
+            "I-040G",
+            "I-040GW"
         ],
         "template": "flex_button_msg"
     }
