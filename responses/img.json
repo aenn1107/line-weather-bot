@@ -19,80 +19,80 @@
         "img_url": "304A.png",
         "template": "img"
     },
-    "307-側": {
-        "img_url": "307-側.png",
+    "307_側": {
+        "img_url": "307_側.png",
         "template": "img"
     },
-    "307A-側": {
-        "img_url": "307A-側.png",
+    "307A_側": {
+        "img_url": "307A_側.png",
         "template": "img"
     },
     "307A_正": {
         "img_url": "307A_正.png",
         "template": "img"
     },
-    "307B-側": {
-        "img_url": "307B-側.png",
+    "307B_側": {
+        "img_url": "307B_側.png",
         "template": "img"
     },
     "307B_正": {
         "img_url": "307B_正.png",
         "template": "img"
     },
-    "307C-側": {
-        "img_url": "307C-側.png",
+    "307C_側": {
+        "img_url": "307C_側.png",
         "template": "img"
     },
     "307C_正": {
         "img_url": "307C_正.png",
         "template": "img"
     },
-    "307D1-側": {
-        "img_url": "307D1-側.png",
+    "307D1_側": {
+        "img_url": "307D1_側.png",
         "template": "img"
     },
     "307D1_正": {
         "img_url": "307D1_正.png",
         "template": "img"
     },
-    "307正": {
-        "img_url": "307正.png",
+    "307_正": {
+        "img_url": "307_正.png",
         "template": "img"
     },
-    "308-側": {
-        "img_url": "308-側.png",
+    "308_側": {
+        "img_url": "308_側.png",
         "template": "img"
     },
     "308_正": {
         "img_url": "308_正.png",
         "template": "img"
     },
-    "309-側": {
-        "img_url": "309-側.png",
+    "309_側": {
+        "img_url": "309_側.png",
         "template": "img"
     },
     "309_正": {
         "img_url": "309_正.png",
         "template": "img"
     },
-    "310-側": {
-        "img_url": "310-側.png",
+    "310_側": {
+        "img_url": "310_側.png",
         "template": "img"
     },
     "310_正": {
         "img_url": "310_正.png",
         "template": "img"
     },
-    "311A-側": {
-        "img_url": "311A-側.png",
+    "311A_側": {
+        "img_url": "311A_側.png",
         "template": "img"
     },
     "311A_正": {
         "img_url": "311A_正.png",
         "template": "img"
     },
-    "311B-側": {
-        "img_url": "311B-側.png",
+    "311B_側": {
+        "img_url": "311B_側.png",
         "template": "img"
     },
     "311B_正": {
@@ -100,11 +100,11 @@
         "template": "img"
     },
     "3300-T0(白)": {
-        "img_url": "3300-T0(白).png",
+        "img_url": "3300_T0(白).png",
         "template": "img"
     },
     "3300-T0(黑)": {
-        "img_url": "3300-T0(黑).png",
+        "img_url": "3300_T0(黑).png",
         "template": "img"
     },
     "3400": {
@@ -115,44 +115,44 @@
         "img_url": "350RT.png",
         "template": "img"
     },
-    "3625-T50C(數據機)": {
-        "img_url": "3625-T50C(數據機).png",
+    "3625_T50C(數據機)": {
+        "img_url": "3625_T50C(數據機).png",
         "template": "img"
     },
-    "3625-T50C": {
-        "img_url": "3625-T50C.png",
+    "3625_T50C": {
+        "img_url": "3625_T50C.png",
         "template": "img"
     },
-    "410223-TC": {
-        "img_url": "410223-TC.png",
+    "410223_TC": {
+        "img_url": "410223_TC.png",
         "template": "img"
     },
-    "410443-TC": {
-        "img_url": "410443-TC.png",
+    "410443_TC": {
+        "img_url": "410443_TC.png",
         "template": "img"
     },
     "500NP": {
         "img_url": "500NP.png",
         "template": "img"
     },
-    "501A-正": {
-        "img_url": "501A-正.png",
+    "501A_正": {
+        "img_url": "501A_正.png",
         "template": "img"
     },
     "501A__側": {
         "img_url": "501A__側.png",
         "template": "img"
     },
-    "502A-側": {
-        "img_url": "502A-側.png",
+    "502A_側": {
+        "img_url": "502A_側.png",
         "template": "img"
     },
     "502A_正": {
         "img_url": "502A_正.png",
         "template": "img"
     },
-    "502B-側": {
-        "img_url": "502B-側.png",
+    "502B_側": {
+        "img_url": "502B_側.png",
         "template": "img"
     },
     "502B_正": {
@@ -163,48 +163,48 @@
         "img_url": "503.png",
         "template": "img"
     },
-    "503A-側": {
-        "img_url": "503A-側.png",
+    "503A_側": {
+        "img_url": "503A_側.png",
         "template": "img"
     },
     "503A_正": {
         "img_url": "503A_正.png",
         "template": "img"
     },
-    "503B-側": {
-        "img_url": "503B-側.png",
+    "503B_側": {
+        "img_url": "503B_側.png",
         "template": "img"
     },
     "503B_正": {
         "img_url": "503B_正.png",
         "template": "img"
     },
-    "504A-側": {
-        "img_url": "504A-側.png",
+    "504A_側": {
+        "img_url": "504A_側.png",
         "template": "img"
     },
     "504A_正": {
         "img_url": "504A_正.png",
         "template": "img"
     },
-    "504B-側": {
-        "img_url": "504B-側.png",
+    "504B_側": {
+        "img_url": "504B_側.png",
         "template": "img"
     },
     "504B_正": {
         "img_url": "504B_正.png",
         "template": "img"
     },
-    "505A-_側": {
-        "img_url": "505A-_側.png",
+    "505A_側": {
+        "img_url": "505A_側.png",
         "template": "img"
     },
     "505A_正": {
         "img_url": "505A_正.png",
         "template": "img"
     },
-    "505B-側": {
-        "img_url": "505B-側.png",
+    "505B_側": {
+        "img_url": "505B_側.png",
         "template": "img"
     },
     "505B_正": {
@@ -219,12 +219,12 @@
         "img_url": "6086.png",
         "template": "img"
     },
-    "620443-TC": {
-        "img_url": "620443-TC.png",
+    "620443_TC": {
+        "img_url": "620443_TC.png",
         "template": "img"
     },
-    "630223-TC": {
-        "img_url": "630223-TC.png",
+    "630223_TC": {
+        "img_url": "630223_TC.png",
         "template": "img"
     },
     "6641K": {
@@ -263,32 +263,32 @@
         "img_url": "AR5211.png",
         "template": "img"
     },
-    "ASUS-AX1800": {
-        "img_url": "ASUS-AX1800.png",
+    "ASUS_AX1800": {
+        "img_url": "ASUS_AX1800.png",
         "template": "img"
     },
-    "ASUS-F0-ET12": {
-        "img_url": "ASUS-F0-ET12.png",
+    "ASUS_F0_ET12": {
+        "img_url": "ASUS_F0_ET12.png",
         "template": "img"
     },
-    "ASUS-XD6": {
-        "img_url": "ASUS-XD6.png",
+    "ASUS_XD6": {
+        "img_url": "ASUS_XD6.png",
         "template": "img"
     },
-    "BW-1254": {
-        "img_url": "BW-1254.png",
+    "BW_1254": {
+        "img_url": "BW_1254.png",
         "template": "img"
     },
-    "CT-511C": {
-        "img_url": "CT-511C.png",
+    "CT_511C": {
+        "img_url": "CT_511C.png",
         "template": "img"
     },
-    "DAP-2460": {
-        "img_url": "DAP-2460.png",
+    "DAP_2460": {
+        "img_url": "DAP_2460.png",
         "template": "img"
     },
-    "DAP-2462": {
-        "img_url": "DAP-2462.png",
+    "DAP_2462": {
+        "img_url": "DAP_2462.png",
         "template": "img"
     },
     "DIR612": {
@@ -299,92 +299,92 @@
         "img_url": "DSL6541K.png",
         "template": "img"
     },
-    "DTP-2012": {
-        "img_url": "DTP-2012.png",
+    "DTP_2012": {
+        "img_url": "DTP_2012.png",
         "template": "img"
     },
-    "G-040G-Q": {
-        "img_url": "G-040G-Q.png",
+    "G_040G_Q": {
+        "img_url": "G_040G_Q.png",
         "template": "img"
     },
-    "G-040W-Q": {
-        "img_url": "G-040W-Q.png",
+    "G_040W_Q": {
+        "img_url": "G_040W_Q.png",
         "template": "img"
     },
-    "G-0425G-P": {
-        "img_url": "G-0425G-P.png",
+    "G_0425G_P": {
+        "img_url": "G_0425G_P.png",
         "template": "img"
     },
-    "G-0425G-Q": {
-        "img_url": "G-0425G-Q.png",
+    "G_0425G_Q": {
+        "img_url": "G_0425G_Q.png",
         "template": "img"
     },
-    "GCA-6000": {
-        "img_url": "GCA-6000.png",
+    "GCA_6000": {
+        "img_url": "GCA_6000.png",
         "template": "img"
     },
     "H640G": {
         "img_url": "H640G.png",
         "template": "img"
     },
-    "H660-C": {
-        "img_url": "H660-C.png",
+    "H660_C": {
+        "img_url": "H660_C.png",
         "template": "img"
     },
     "H660W": {
         "img_url": "H660W.png",
         "template": "img"
     },
-    "H660WM-C": {
-        "img_url": "H660WM-C.png",
+    "H660WM_C": {
+        "img_url": "H660WM_C.png",
         "template": "img"
     },
     "H660WM": {
         "img_url": "H660WM.png",
         "template": "img"
     },
-    "I-040G-A": {
-        "img_url": "I-040G-A.png",
+    "I_040G_A": {
+        "img_url": "I_040G_A.png",
         "template": "img"
     },
-    "I-040G": {
-        "img_url": "I-040G.png",
+    "I_040G": {
+        "img_url": "I_040G.png",
         "template": "img"
     },
-    "I-040GW": {
-        "img_url": "I-040GW.png",
+    "I_040GW": {
+        "img_url": "I_040GW.png",
         "template": "img"
     },
-    "ITA-111": {
-        "img_url": "ITA-111.png",
+    "ITA_111": {
+        "img_url": "ITA_111.png",
         "template": "img"
     },
-    "ITA-222": {
-        "img_url": "ITA-222.png",
+    "ITA_222": {
+        "img_url": "ITA_222.png",
         "template": "img"
     },
-    "ITA-411": {
-        "img_url": "ITA-411.png",
+    "ITA_411": {
+        "img_url": "ITA_411.png",
         "template": "img"
     },
-    "ITA-811": {
-        "img_url": "ITA-811.png",
+    "ITA_811": {
+        "img_url": "ITA_811.png",
         "template": "img"
     },
-    "ITA-TP69R-4L": {
-        "img_url": "ITA-TP69R-4L.png",
+    "ITA_TP69R_4L": {
+        "img_url": "ITA_TP69R_4L.png",
         "template": "img"
     },
-    "ITA-TP69R-4L4P": {
-        "img_url": "ITA-TP69R-4L4P.png",
+    "ITA_TP69R_4L4P": {
+        "img_url": "ITA_TP69R_4L4P.png",
         "template": "img"
     },
-    "ITA-TP69R-8L": {
-        "img_url": "ITA-TP69R-8L.png",
+    "ITA_TP69R_8L": {
+        "img_url": "ITA_TP69R_8L.png",
         "template": "img"
     },
-    "ITA-TP69R-8L8P": {
-        "img_url": "ITA-TP69R-8L8P.png",
+    "ITA_TP69R_8L8P": {
+        "img_url": "ITA_TP69R_8L8P.png",
         "template": "img"
     },
     "ITA221(B)": {
@@ -395,16 +395,16 @@
         "img_url": "ITA221.png",
         "template": "img"
     },
-    "ITA412-4L4P": {
-        "img_url": "ITA412-4L4P.png",
+    "ITA412_4L4P": {
+        "img_url": "ITA412_4L4P.png",
         "template": "img"
     },
-    "ITASP8440SP-4L4P": {
-        "img_url": "ITASP8440SP-4L4P.png",
+    "ITASP8440SP_4L4P": {
+        "img_url": "ITASP8440SP_4L4P.png",
         "template": "img"
     },
-    "ITASP8440SP-8L8P": {
-        "img_url": "ITASP8440SP-8L8P.png",
+    "ITASP8440SP_8L8P": {
+        "img_url": "ITASP8440SP_8L8P.png",
         "template": "img"
     },
     "ITA_TP7161": {
@@ -439,20 +439,20 @@
         "img_url": "NWA1100N.png",
         "template": "img"
     },
-    "P-6101C": {
-        "img_url": "P-6101C.png",
+    "P_6101C": {
+        "img_url": "P_6101C.png",
         "template": "img"
     },
-    "P-870H-51": {
-        "img_url": "P-870H-51.png",
+    "P_870H_51": {
+        "img_url": "P_870H_51.png",
         "template": "img"
     },
-    "P-870HA": {
-        "img_url": "P-870HA.png",
+    "P_870HA": {
+        "img_url": "P_870HA.png",
         "template": "img"
     },
-    "p-870HW-51": {
-        "img_url": "p-870HW-51.png",
+    "p_870HW_51": {
+        "img_url": "p_870HW_51.png",
         "template": "img"
     },
     "P873": {
@@ -479,44 +479,44 @@
         "img_url": "P883.png",
         "template": "img"
     },
-    "PG-9141": {
-        "img_url": "PG-9141.png",
+    "PG_9141": {
+        "img_url": "PG_9141.png",
         "template": "img"
     },
-    "PG-9173": {
-        "img_url": "PG-9173.png",
+    "PG_9173": {
+        "img_url": "PG_9173.png",
         "template": "img"
     },
     "PG004": {
         "img_url": "PG004.png",
         "template": "img"
     },
-    "PLA-405C": {
-        "img_url": "PLA-405C.png",
+    "PLA_405C": {
+        "img_url": "PLA_405C.png",
         "template": "img"
     },
-    "PLA-406C": {
-        "img_url": "PLA-406C.png",
+    "PLA_406C": {
+        "img_url": "PLA_406C.png",
         "template": "img"
     },
-    "PLC-9120": {
-        "img_url": "PLC-9120.png",
+    "PLC_9120": {
+        "img_url": "PLC_9120.png",
         "template": "img"
     },
-    "PMG4506-T20B": {
-        "img_url": "PMG4506-T20B.png",
+    "PMG4506_T20B": {
+        "img_url": "PMG4506_T20B.png",
         "template": "img"
     },
-    "RTF8207W-E": {
-        "img_url": "RTF8207W-E.png",
+    "RTF8207W_E": {
+        "img_url": "RTF8207W_E.png",
         "template": "img"
     },
     "RTF8207W": {
         "img_url": "RTF8207W.png",
         "template": "img"
     },
-    "RTF8217-E": {
-        "img_url": "RTF8217-E.png",
+    "RTF8217_E": {
+        "img_url": "RTF8217_E.png",
         "template": "img"
     },
     "RTF8217": {
@@ -527,12 +527,12 @@
         "img_url": "SMC7904W.png",
         "template": "img"
     },
-    "T-288C": {
-        "img_url": "T-288C.png",
+    "T_288C": {
+        "img_url": "T_288C.png",
         "template": "img"
     },
-    "T-336Cx": {
-        "img_url": "T-336Cx.png",
+    "T_336Cx": {
+        "img_url": "T_336Cx.png",
         "template": "img"
     },
     "T07AW": {
@@ -543,16 +543,16 @@
         "img_url": "T50B.png",
         "template": "img"
     },
-    "WAP-5860": {
-        "img_url": "WAP-5860.png",
+    "WAP_5860": {
+        "img_url": "WAP_5860.png",
         "template": "img"
     },
     "WBR2200": {
         "img_url": "WBR2200.png",
         "template": "img"
     },
-    "ZYXEL-6615": {
-        "img_url": "ZYXEL-6615.png",
+    "ZYXEL_6615": {
+        "img_url": "ZYXEL_6615.png",
         "template": "img"
     }
 }
