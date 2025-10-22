@@ -2,5 +2,81 @@
     "3300-T0": {
         "img_list":["3300-T0(白)","3300-T0(黑)"],
         "template": "img_slick"
+    },
+    "307A":{
+        "img_list":["307A_正","307A_側"],
+        "template": "img_slick"
+    },
+    "307B":{
+        "img_list":["307B_正","307B_側"],
+        "template": "img_slick"
+    },
+    "307C":{
+        "img_list":["307C_正","307C_側"],
+        "template": "img_slick"
+    },
+    "307D1":{
+        "img_list":["307D1_正","307D1_側"],
+        "template": "img_slick"
+    },
+    "307":{
+        "img_list":["307_正","307_側"],
+        "template": "img_slick"
+    },
+    "308":{
+        "img_list":["308_正","308_側"],
+        "template": "img_slick"
+    },
+    "309":{
+        "img_list":["309_正","309_側"],
+        "template": "img_slick"
+    },
+    "310":{
+        "img_list":["310_正","310_側"],
+        "template": "img_slick"
+    },
+    "311A":{
+        "img_list":["311A_正","311A_側"],
+        "template": "img_slick"
+    },
+    "311B":{
+        "img_list":["311B_正","311B_側"],
+        "template": "img_slick"
+    },
+    "501A":{
+        "img_list":["501A_正","501A_側"],
+        "template": "img_slick"
+    },
+    "502A":{
+        "img_list":["502A_正","502A_側"],
+        "template": "img_slick"
+    },
+    "502B":{
+        "img_list":["502B_正","502B_側"],
+        "template": "img_slick"
+    },
+    "503A":{
+        "img_list":["503A_正","503A_側"],
+        "template": "img_slick"
+    },
+    "503B":{
+        "img_list":["503B_正","503B_側"],
+        "template": "img_slick"
+    },
+    "504A":{
+        "img_list":["504A_正","504A_側"],
+        "template": "img_slick"
+    },
+    "504B":{
+        "img_list":["504B_正","504B_側"],
+        "template": "img_slick"
+    },
+    "505A":{
+        "img_list":["505A_正","505A_側"],
+        "template": "img_slick"
+    },
+    "505B":{
+        "img_list":["505B_正","505B_側"],
+        "template": "img_slick"
     }
 }
