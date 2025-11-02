@@ -554,5 +554,10 @@
     "ZYXEL_6615": {
         "img_url": "ZYXEL_6615.png",
         "template": "img"
+    },
+    "查修事項":{
+        "img_url": "messageImage_1761974004886.jpg",
+        "template": "img"
     }
+
 }
