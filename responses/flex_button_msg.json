@@ -17,13 +17,6 @@
         ],
         "template": "flex_button_msg"
     },
-    "/認識工具":{
-        "altText": "請選擇工具",
-        "contents_text": "想知道何種工具？",
-        "footer": [
-            "電話測試工具"
-        ],
-    }
     "安全規範": {
         "altText": "請選擇安全事項",
         "contents_text": "想知道何種安全事項？",
