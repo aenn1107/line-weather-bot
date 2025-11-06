@@ -275,12 +275,20 @@
         "img_url": "ASUS-XD6.png",
         "template": "img"
     },
+    "A型端子測試線": {
+        "img_url": "A型端子測試線.png",
+        "template": "img"
+    },
     "BW-1254": {
         "img_url": "BW-1254.png",
         "template": "img"
     },
     "CT-511C": {
         "img_url": "CT-511C.png",
+        "template": "img"
+    },
+    "C型端子測試線": {
+        "img_url": "C型端子測試線.png",
         "template": "img"
     },
     "DAP-2460": {
@@ -419,6 +427,10 @@
         "img_url": "KBAB1801.png",
         "template": "img"
     },
+    "MDF電話測試機": {
+        "img_url": "MDF電話測試機.png",
+        "template": "img"
+    },
     "查修事項": {
         "img_url": "messageImage_1761974004886.jpg",
         "template": "img"
@@ -547,6 +559,10 @@
         "img_url": "T50B.png",
         "template": "img"
     },
+    "UY接續子": {
+        "img_url": "UY接續子.png",
+        "template": "img"
+    },
     "WAP-5860": {
         "img_url": "WAP-5860.png",
         "template": "img"
@@ -557,6 +573,50 @@
     },
     "ZYXEL-6615": {
         "img_url": "ZYXEL-6615.png",
+        "template": "img"
+    },
+    "一字起子": {
+        "img_url": "一字起子.png",
+        "template": "img"
+    },
+    "交接箱電話插針測試夾（豬鼻子）": {
+        "img_url": "交接箱電話插針測試夾（豬鼻子）.png",
+        "template": "img"
+    },
+    "十字起子": {
+        "img_url": "十字起子.png",
+        "template": "img"
+    },
+    "寶工 MT-7028 音頻網路查線器": {
+        "img_url": "寶工 MT-7028 音頻網路查線器.png",
+        "template": "img"
+    },
+    "尖嘴鉗": {
+        "img_url": "尖嘴鉗.png",
+        "template": "img"
+    },
+    "帶刺鱷魚測試夾": {
+        "img_url": "帶刺鱷魚測試夾.png",
+        "template": "img"
+    },
+    "打線槍": {
+        "img_url": "打線槍.png",
+        "template": "img"
+    },
+    "斜口鉗": {
+        "img_url": "斜口鉗.png",
+        "template": "img"
+    },
+    "簡易剝線刀": {
+        "img_url": "簡易剝線刀.png",
+        "template": "img"
+    },
+    "網路水晶頭夾線鉗": {
+        "img_url": "網路水晶頭夾線鉗.png",
+        "template": "img"
+    },
+    "防潮端子測試線": {
+        "img_url": "防潮端子測試線.png",
         "template": "img"
     }
 }
